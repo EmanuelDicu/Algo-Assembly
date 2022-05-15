@@ -7,9 +7,7 @@ Tema are ca scop implementarea urmatoarelor cerinte in limbajul de asamblare:
 		cuvintelor dupa un comparator, folosind apeluri de functii 
 		externe precum strtok si qsort.
 - task-4: evaluarea unei expresii aritmetice
-
-bonus_cpuid: extragerea unor informatii despre procesor apeland functia cpuid
-
-bonus_64bit: intercalarea a 2 vectori in assembly pe 64 de biti.
+- bonus_cpuid: extragerea unor informatii despre procesor apeland functia cpuid
+- bonus_64bit: intercalarea a 2 vectori in assembly pe 64 de biti.
 
 Toate enunturile si implementarile se gasesc in folderele aferente fiecarui task.
