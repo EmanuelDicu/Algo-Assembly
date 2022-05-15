@@ -1,0 +1,15 @@
+Tema are ca scop implementarea urmatoarelor cerinte in limbajul de asamblare:
+
+- task-1: sortarea nodurilor unei liste in ordine crescatoare
+- task-2: implementarea unui "stack-machine" (calculator care lucreaza doar cu 
+		o stiva si operatii de push/pop pentru accesarea memoriei)
+- task-3: separarea unui string in mai multe cuvinte, respectiv sortarea
+		cuvintelor dupa un comparator, folosind apeluri de functii 
+		externe precum strtok si qsort.
+- task-4: evaluarea unei expresii aritmetice
+
+bonus_cpuid: extragerea unor informatii despre procesor apeland functia cpuid
+
+bonus_64bit: intercalarea a 2 vectori in assembly pe 64 de biti.
+
+Toate enunturile si implementarile se gasesc in folderele aferente fiecarui task.
